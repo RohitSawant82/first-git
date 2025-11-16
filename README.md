@@ -1,4 +1,4 @@
-# first-git
+# First-Git
 This is my first git repository.
 <br>
 Author - Rohit Sawant
